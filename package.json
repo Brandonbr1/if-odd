@@ -1,0 +1,28 @@
+{
+  "name": "if-odd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandonbr1/if-odd.git"
+  },
+  "keywords": [
+    "odd"
+  ],
+  "author": "Brandonbr1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brandonbr1/if-odd/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "branches": [
+      "master"
+    ]
+  },
+  "homepage": "https://github.com/Brandonbr1/if-odd#readme"
+}
