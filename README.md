@@ -15,3 +15,6 @@ ifodd(2); //true
 ifodd(3); //false
 // And so on
 ```
+
+# Lisence 
+this project is under the MIT lisence
