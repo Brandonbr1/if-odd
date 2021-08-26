@@ -1,7 +1,7 @@
 ### if-odd
 
 ## what is it
-it is a  more efficent version of [if-odd](https://github.com/samuelmarina/if-odd/)
+it is a  more efficent version of [is-odd](https://github.com/samuelmarina/is-odd/)
 
 ## install
 ` npm install  @brandonbr1/if-odd`
